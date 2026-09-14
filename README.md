@@ -1,2 +1,2 @@
-# icons-circle
-Circle icons
+# icons
+Icons
